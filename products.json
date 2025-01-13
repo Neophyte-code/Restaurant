@@ -21,37 +21,37 @@
         "id": 4,
         "name": "Glazed Tuna Delight",
         "price": 20,
-        "image": "../images/1.png"
+        "image": "../images/1.PNG"
     },
     {
         "id": 5,
         "name": "Roasted Chicken Wings",
         "price": 70,
-        "image": "../images/2.png"
+        "image": "../images/2.PNG"
     },
     {
         "id": 6,
         "name": "Country Style Tuna and Greens",
         "price": 60,
-        "image": "../images/3.png"
+        "image": "../images/3.PNG"
     },
     {
         "id": 7,
         "name": "Sweet and Savory Chicken Bowl",
         "price": 55,
-        "image": "../images/4.png"
+        "image": "../images/4.PNG"
     },
     {
         "id": 8,
         "name": "CLassic Vegetables",
         "price": 90,
-        "image": "../images/5.png"
+        "image": "../images/5.PNG"
     },
     {
         "id": 9,
         "name": "Italian Pizza",
         "price": 50,
-        "image": "../images/6.png"
+        "image": "../images/6.PNG"
     },
     {
         "id": 10,
